@@ -10,10 +10,10 @@ The app is designed for schools, universities, and workplaces where manual check
 # Preview
 
 <div>
-  <img src="screenshots/attendance_not_in_range.png" width="24%">
-  <img src="screenshots/attendance_scanning.png" width="24%">
-  <img src="screenshots/attendance_completed.png" width="24%">
-  <img src="screenshots/attendance_history.png" width="24%">
+  <img src="screenShots/attendance_not_in_range.png" width="24%">
+  <img src="screenShots/attendance_scanning.png" width="24%">
+  <img src="screenShots/attendance_completed.png" width="24%">
+  <img src="screenShots/attendance_history.png" width="24%">
 </div>
 
 # Use Cases
